@@ -1,11 +1,11 @@
-²»ÖªµÀÎªÊ²Ã´pyinstaller´ò°üÊ§°Ü£¬ËùÒÔÃ»ÓÐexeÎÄ¼þ£¬ÒªÔËÐÐÓÎÏ·ÐèÒªpython3ÒÔ¼°pygame¿â¡£
+ä¸çŸ¥é“ä¸ºä»€ä¹ˆpyinstalleræ‰“åŒ…å¤±è´¥ï¼Œæ‰€ä»¥æ²¡æœ‰exeæ–‡ä»¶ï¼Œè¦è¿è¡Œæ¸¸æˆéœ€è¦python3ä»¥åŠpygameåº“ã€‚
 
-ÔËÐÐmain.pyÎÄ¼þ¿ªÊ¼ÓÎÏ·£¬WSAD»òÕß¡ü¡ý¡û¡ú¿ØÖÆÒÆ¶¯¡£
-
-
-´Ë´úÂëÊÇÔçÆÚ×÷Æ·£¬ÐÐÎÄ»ìÂÒ£¬×¢ÊÍÒ²²»¹»ÏêÏ¸£¬ÔÄ¶ÁÆðÀ´¿ÉÄÜÓÐÀ§ÄÑ£¬ÎÞÐèÃãÇ¿¡£
+è¿è¡Œmain.pyæ–‡ä»¶å¼€å§‹æ¸¸æˆï¼ŒWSADæˆ–è€…â†‘â†“â†â†’æŽ§åˆ¶ç§»åŠ¨ã€‚
 
 
+æ­¤ä»£ç æ˜¯æ—©æœŸä½œå“ï¼Œå¹¶éžOOPï¼Œè¡Œæ–‡æ··ä¹±ï¼Œæ³¨é‡Šä¹Ÿä¸å¤Ÿè¯¦ç»†ã€‚
 
 
-(Ò²²»ÖªµÀ¶àÄêÖ®ºóÎÒÔÙ¿´ÕâÐ©´úÂë»áÊÇÊ²Ã´¸ÐÊÜ¡£)
+
+
+(ä¹Ÿä¸çŸ¥é“å¤šå¹´ä¹‹åŽæˆ‘å†çœ‹è¿™äº›ä»£ç ä¼šæ˜¯ä»€ä¹ˆæ„Ÿå—ã€‚)
