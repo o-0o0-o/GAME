@@ -1389,33 +1389,10 @@ class Settings():
 	
 		#帧数
 		self.fps_number = 80
-
-
-		#游戏前的背景色
-		self.start_groundcolor = (220,220,220)
-		
-		#开始字体
-		self.start_font_color = (200,80,20)	
-		
-		#设置界面的框框色
-		self.setting_rect_color = (150,50,50)
-		
-		#正常情况下的游戏中背景色
-		self.playing_groundcolor = (130,230,230)
-
-		#score字的颜色 矢车菊的蓝色
-		self.score_color = (100,149,237)
-		self.die_score_color = (30,30,30)
-		
-		#死亡后字显示颜色
-		self.die_rect_color = (255,255,255)
-		
-
 		
 		#屏幕大小
 		self.screen_width=900
-		self.screen_height=600	
-		self.little_obj_distance = 1100		
+		self.screen_height=600		
 		
 
 
