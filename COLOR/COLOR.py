@@ -1388,7 +1388,7 @@ class Settings():
 	def __init__(self):
 	
 		#帧数
-		self.fps_number = 80
+		self.fps_number = 85
 		
 		#屏幕大小
 		self.screen_width=900
